@@ -1,5 +1,7 @@
 # 🏹 Simple Text-Based RPG Game
 
+## Access it through 
+https://jb-05.github.io/fcc-RPG.js/
 ## 📜 Description
 This is a simple yet engaging text-based RPG game built using **JavaScript, HTML, and CSS**. Players can explore different locations, battle monsters, buy and sell weapons, and manage their health and gold as they progress through the game.
 
